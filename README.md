@@ -21,3 +21,5 @@ The toolkit has been tested on Ubuntu 20.04, Ubuntu 18.04, Centos 7, cluster bas
     * Run toolkit using graphical user interface:
 
           python3 ${Path_to_code}/run_GUI.py
+          
+The pretrained networks can be found from this link: https://upenn.box.com/s/y08cpr0soxxu05x5godw7h5czpn7oak8
